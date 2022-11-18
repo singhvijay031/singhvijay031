@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bijay Mahato</h1>
 <h3 align="center">Still Learning...</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhvijay031&label=Profile%20views&color=0e75b6&style=flat" alt="singhvijay031" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhvijay031" alt="singhvijay031" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning **Spring Boot**
 
