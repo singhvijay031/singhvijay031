@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhvijay031" alt="singhvijay031" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **MERN Full Stack**
 
 - 📫 How to reach me **bijaymahato031@gmail.com**
 
