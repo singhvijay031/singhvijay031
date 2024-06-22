@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Bijay Mahato</h1>
 <h3 align="center">Web Developer</h3>
 
-
+ [![](https://visitcount.itsvg.in/api?id=vijaysingh031&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=singhvijay031&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -22,7 +22,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=singhvijay031&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
-<!--[![](https://visitcount.itsvg.in/api?id=vijaysingh031&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 
