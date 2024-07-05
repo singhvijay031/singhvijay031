@@ -45,7 +45,7 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=singhvijay031&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"alt="GitHub Stats" /><br/><br>
+   <br/><br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhvijay031&theme=tokyonight&hide_border=false"alt="GitHub Streak Stats" /><br/>
    
 </p>
