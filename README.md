@@ -42,13 +42,15 @@
     <img class="badge" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
     <img class="badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
-
+<!-- GitHub Stats -->
 <h1 align="center">📊 GitHub Stats:</h1>
-<p align="center">
+ <p align="center" margin="50px">
    <br/><br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhvijay031&theme=tokyonight&hide_border=false"alt="GitHub Streak Stats" /><br/>
-   
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=singhvijay031&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhvijay031&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+ </p>
+
+
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center">
