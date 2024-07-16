@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Bijay Mahato</h1>
-<h3 align="center" >Web Developer</h3>
+<h3 align="center" >A Full Stack MERN Developer</h3>
 
 <!-- Profile Views -->
 <p align="left">
